@@ -1,0 +1,6 @@
+{
+  "name": "Aitoxicómetro Académico",
+  "description": "Diagnóstico analítico de ergonomía cognitiva y pedagogía universitaria para evaluar el grado de aitoxicación en textos académicos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
